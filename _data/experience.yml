@@ -28,4 +28,4 @@
     - >
       Trading platform, with backend execution of orders in multiple brokers using: Python Tornado, QuicFix, Postgres, Bootstrap, HTML5 and Javascript
     - Backoffice tool for monitoring and controling the platform
-    - Marketdata redistribution application
+    - Market data redistribution app
