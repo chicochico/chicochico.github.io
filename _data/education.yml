@@ -1,13 +1,8 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Computer Science
+  uni: UNIOESTE, Foz do Iguacu PR
+  year: 2010 &mdash; 2014
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+    - award: Undergraduate research of web technologies applied in education
+    - award: Internship development of interactive web video player for application in education
+    - award: Final paper Signal Processing for Guitar Music Transcription
