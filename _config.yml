@@ -1,6 +1,6 @@
 # Site settings
 title: "Francisco Chiang"
-description: "Francisco's resume."
+description: "My resume."
 
 # Build settings
 markdown: kramdown
